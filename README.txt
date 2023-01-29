@@ -1,8 +1,8 @@
-Ejercicio de POO (nivel básico) desarrollado en JAVA, extraído de internet.
+Ejercicio de POO (nivel básico) desarrollado en JAVA, extraido de internet.
 
 Se propone crear una clase Serie con los siguientes atributos:
 
-- Titulo.
+- Título.
 - Cantidad de temporadas.
 - Información sobre si fue entregada o está diponible (entregada = true si fue entregada, entregada = false si está disponible).
 - Género.
